@@ -35,6 +35,8 @@ class _MyOnboardingState extends State<MyOnboarding> {
             //   image: AssetImage('assets/images/Screenshot.png'),
             // )),
           ),
+          //! dont uncomment the lines
+          //TODO: Come uncomment the lines
           Column(
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
